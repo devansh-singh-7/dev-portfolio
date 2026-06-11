@@ -26,6 +26,12 @@ const experience = [
 
 const education = [
   {
+    degree: "M.Sc Big Data Analytics",
+    institution: "St Xaviers College, Mumbai",
+    period: "2026-Present",
+    grade: "Pursuing",
+  },
+  {
     degree: "B.Sc. Information Technology",
     institution: "JaiHind College",
     period: "2023-2026",
